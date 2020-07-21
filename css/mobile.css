@@ -1,0 +1,15 @@
+/** @format */
+
+@media (max-width: 600px) {
+    .servicios {
+        height: auto;
+        display: inherit;
+    }
+    .servicio {
+        margin-top: auto;
+    }
+    .descriptions,
+    .opinions {
+        display: inherit;
+    }
+}
